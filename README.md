@@ -1,1 +1,0 @@
-# Integrated-Agricultural-Drone-System
